@@ -1,0 +1,41 @@
+[{
+    "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/176747b95db1eaf769b80d178c793666677aebe6-2000x1000.png?w=812&q=80&fit=max&auto=format",
+    "alt":"img1" ,
+    "h1":"FREE 4 Pc. Chicken Fries with $1+ purchase" ,
+     "a":"See Terms",
+    "p":"Another day, another deal for Royal Perks members! Score FREE 4 Pc. Chicken Fries when you make a $1+ purchase." ,
+    "button": "Order Now"
+   },
+   {
+       "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/1e0094d5b8e3283dfa1aec982b42a0d45387642e-2000x1000.png?w=812&q=80&fit=max&auto=format",
+       "alt":"img2",
+       "h1":"7 days. 7 delicious deals.",
+       "a":"See Terms",
+       "p":"Welcome to Perks Week! A whole week of can’t-miss perks for our loyal members. Tasty deals drop every day, now through 9/22." ,
+       "button":"View Deals"  
+   },
+  {
+   "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/bf28181f88a5acb3c62d73b8aa830dd8698ad50a-2000x1000.png?w=812&q=80&fit=max&auto=format", 
+   "alt":"img3",
+   "h1":"Your quarterly FREE Whopper® is here!",
+   "a":"See Terms",
+   "p":"Head over to the Offers tab to redeem your Walmart+ benefit—a FREE Whopper® with any purchase" ,
+   "button":"Redeem Now"
+  },
+  {
+   "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a364c5344c41381a6f8793a6078a542a52bcb42e-2000x1000.png?w=812&q=80&fit=max&auto=format",
+   "alt":"img4",
+   "h1":"Think you can handle the BK® grill?",
+   "a":"See Terms",
+   "p":"Hop in the kitchen and show us your Whopper®-building skills. Top each flame-grilled Whopper® with the correct toppings as the orders roll in. You could win up to 750 Crowns! Play daily through 9/22!" ,
+   "button":"Play Now"
+  },
+  {
+   "img":"https://cdn.sanity.io/images/czqk28jt/prod_bk_us/57fd04ee9014abd5b7c58a9838e663e5d9e640e6-2000x1000.png?w=812&q=80&fit=max&auto=format",
+   "alt":"img5",
+   "h1":"Mornings rule with BK®",
+   "a":"See Terms",
+    "p":"Welcome to Perks Week! A whole week of can’t-miss perks for our loyal members. Tasty deals drop every day, now through 9/22.",
+   "button":"View details"
+  }
+]

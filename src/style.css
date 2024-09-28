@@ -1,0 +1,251 @@
+body{
+    background-color: #F5EBDC;
+}
+#div1{
+   
+    height: 65px;
+    box-shadow: 1px 2px 1px gray;
+    
+    
+}
+#span1{
+    margin-left: 150px;
+    width:30px;
+    height: 10px;
+    margin-top: -5px;
+    
+}
+
+#path{
+    width: 172px;
+    height: 22px;
+    /* border: solid green; */
+    margin-left: 30%;
+    margin-top: 15px;
+}
+#span3{
+    margin-left: 24%;
+    font-size: 24px;
+    color: rgb(80, 35, 20);
+
+}
+#span4{
+    margin-left: 20px;
+    
+    font-size: 10px;
+    background-color: rgb(214, 35, 0);
+    padding: 8px 18px;
+    font-size: 12px;
+    font-family: Flame-Regular;
+    color: rgb(245, 235, 220);
+    font-family: bold;
+    border-radius: 20px;
+   
+    
+}
+#firsti{
+    width: 2px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+#h1{
+    margin-bottom: 0px;
+    letter-spacing: 0px;
+    color: rgb(80, 35, 20);
+    line-height: 1.125em;
+    /* font-family: Flame-Regular; */
+    font-family: Flame-Bold;
+    font-size: 60px;
+    font-weight:bold;
+    margin-top: -10px;
+}
+#firstdiv{
+    display: flex;
+  
+}
+#child1{
+    width: 410px;
+    height: 383px;
+    /* border: solid; */
+    margin-left: 150px;
+    padding: 48px 28px 48px 0px;
+}
+.but2{
+    width: 300px;
+    height: 55px;
+    padding:14px 16px;
+    /* font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; */
+    align-items: center;
+    color: white;
+    border-radius: 30px;
+    border-color:rgb(214, 35, 0); 
+    outline: none;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Flame-Bold;
+   
+    
+}
+#button1{
+    background-color: rgb(214, 35, 0);
+    margin-bottom: 18px;
+    margin-top: 27px;
+  
+    border: none;
+    
+
+}
+#button2{
+    color: rgb(214, 35, 0);
+    background-color: #F5EBDC;
+    
+
+}
+#child2{
+    width: 800px;
+    height: 430px;
+    /* border: solid; */
+    margin-left: 40px;
+    margin-top: 2px;
+}
+#img1{
+   
+    width: 100%;
+    height: 100%;
+}
+#parent{
+    margin-top: -25px;
+    /* border:solid red; */
+    margin-left: 150px;
+    display: flex; 
+    flex-wrap: wrap;
+    
+}
+/* #seconddiv{
+    width: 1250px;
+    height: 700px;
+    border: solid green;  
+    margin-left: 150px;
+    /* display: flex;
+    flex-wrap: wrap; */
+ 
+.card1{
+    width:580px;
+    height: 500px;
+    /* border: solid;  */
+    border-radius: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+.card_img{
+    width: 580px;
+    height: 290px;
+    border-radius: 20px;
+} 
+.para{
+    
+    /* background-color: white; */
+    height: 193px;
+    margin-top: -10px;
+    border-radius: 20px;
+    
+}
+
+h2{
+    line-height: 28px;
+    margin-bottom: 8px;
+    padding-top: 5px;
+    letter-spacing: 0px;
+    font-family: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(80, 35, 20);
+    margin-left: 20px;
+} 
+ 
+p{
+    margin-bottom: 8px; 
+    font-family: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: rgb(80,35,20);
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 20px;
+
+}
+
+a{
+    margin-left: 20px;
+}
+
+.button_card{
+     margin-left: 420px;
+     
+   
+    cursor: pointer;
+    padding: 8px 16px 8px 8px;
+    text-align: center;
+    border-radius: 20px;
+    border-color: orangered; 
+    color:orangered;
+    background-color: white;
+} 
+#spacediv{
+    /* border:solid red; */
+    width: 99%;
+    height: 170px;
+}    
+#finaldiv{
+    width: 100%;
+    height: 430px;
+    /* border: solid red;  */
+    display: flex;
+    background-color: #EBE2D3;
+}
+#child_final1{
+    width: 474px;
+    height: 430px;
+    /* border: solid blue;  */
+    margin-left: 150px;
+    margin-right: 100px;
+}
+#final_image{
+    width: 100%;
+    height: 430px;
+}
+#child_final2{
+   width:592px;
+   height: 430px;
+   /* border: solid red; */
+}
+.svg1{
+    width: 188px;
+    height: 54px;
+    /* border:solid red; */
+    padding-top: 30px;
+}   
+#finalpara{
+    margin-top: 45px;
+}
+.finalh1{
+    font-size: 48px;
+    color:rgb(80, 35, 20);
+    font-weight: bold;
+    
+    
+}
+#finalid2{
+    margin-top: -25px;
+    /* border: solid red; */
+}
+#firstfooter{
+    width: 100%;
+    height: 40px;
+    background-color:rgb(80, 35, 20); 
+    text-align: center;
+    color: white;
+
+}
+h5,a{
+    padding-top: 10px;
+}
+ 
