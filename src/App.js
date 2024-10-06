@@ -15,13 +15,13 @@ export default class App extends React.Component{
       
         <>
         <div id="seconddiv">
-                <div class="card1 card3" id="card1_id">
-                     <img alt={this.props.alt}  src={this.props.img} class="card_img"/>
-                     <div  class="para">
+                <div className="card1 card3" id="card1_id" key="card1">
+                     <img alt={this.props.alt}  src={this.props.img} className="card_img"/>
+                     <div  className="para">
                       <h2>{this.props.h1}</h2>
                       <p>{this.props.p}</p>
                       <a href="fgh">{this.props.a}</a> <br /><br />
-                      <button class="button_card">{this.props.button}</button>
+                      <button className="button_card">{this.props.button}</button>
                      </div>
                 </div>
          

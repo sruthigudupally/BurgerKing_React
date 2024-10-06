@@ -4,7 +4,7 @@ export default class FirstFooter extends React.Component{
         return(
             <div id="firstfooter">
                 <h5>TM & Copyright 2024 Burger King Company LLC. All Rights Reserved.|
-                <a>Do Not Sell Or Share My Personal Information</a>
+                <a href="wrwtrtr">Do Not Sell Or Share My Personal Information</a>
                 </h5>
            </div>
         )
